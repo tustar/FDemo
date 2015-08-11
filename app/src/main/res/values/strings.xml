@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">fc</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Chapter02-->
+    <string name="title_activity_chapter02_main">Chapter02MainActivity</string>
+    <string name="title_activity_chapter02_normal">Chapter02NormalActivity</string>
+    <string name="title_activity_chapter02_dialog">Chapter02DialogActivity</string>
+    <string name="chapter02_normal_text">This is a normal activity</string>
+    <string name="chapter02_dialog_text">This is a dialog activity</string>
+    <string name="chapter02_normal_btn">Start Normal Activity</string>
+    <string name="chapter02_dialog_btn">Start Dialog Activity</string>
+</resources>
